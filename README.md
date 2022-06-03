@@ -2,4 +2,12 @@
 
  1. Add a new record with route (/task/new): 
 
-  <img src="https://drive.google.com/file/d/1N62y28WaaUlWQxBphVfgd8U4BaNPWj-d/view?usp=sharing">
+  ![](images/post.png)
+  
+ 2. Get all Record with route (/task/all):
+ 
+  ![](images/get.png)
+  
+ 3. Entry in a Database
+ 
+  ![](images/databaseentry.png)
