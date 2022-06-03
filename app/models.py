@@ -1,6 +1,5 @@
 import email
 from django.db import models
-from pkg_resources import require
 import uuid
 
 class Record(models.Model):
