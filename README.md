@@ -8,6 +8,6 @@
  
   ![](images/get.png)
   
- 3. Entry in a Database
+ 3. Entry of Record in a Database
  
-  ![](images/databaseentry.png)
+  ![](images/databaseEntery.png)
